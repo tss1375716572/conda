@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/tss1375716572/conda/blob/master/index.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tss1375716572/conda/blob/master/index.ipynb)
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
